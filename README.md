@@ -7,3 +7,10 @@ looking at the slides.
 If you're looking to explore, run this on your local host:
 
     git clone https://github.com/tskirvin/fnal-git-demo
+
+Marc's talk is here: 
+
+    http://www-oss.fnal.gov/~mengel/Talks/git_fermi/slides.html
+
+Amit will give me some materials to put up soon.
+
