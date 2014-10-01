@@ -8,9 +8,8 @@ If you're looking to explore, run this on your local host:
 
     git clone https://github.com/tskirvin/fnal-git-demo
 
-Marc's talk is here: 
-
-    http://www-oss.fnal.gov/~mengel/Talks/git_fermi/slides.html
+Marc's talk is here: http://www-oss.fnal.gov/~mengel/Talks/git_fermi/slides.html
 
 Amit will give me some materials to put up soon.
 
+And I still recommend the 'Git for Ages 4 and Up' talk: http://www.youtube.com/watch?v=1ffBJ4sVUb4
